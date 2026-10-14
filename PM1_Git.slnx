@@ -2,5 +2,5 @@
   <Configurations>
     <Platform Name="x64" />
   </Configurations>
-  <Project Path="PM1_Git/PM1_Git.vcxproj" />
+  <Project Path="PM1_Git/PM1_Git.vcxproj" Id="b34604d3-2d2b-431b-b033-7716470f097f" />
 </Solution>
